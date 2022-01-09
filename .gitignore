@@ -2,7 +2,7 @@
 .DS_Store
 .thumbs.db
 
-
+.prettierrc
 # Quasar core related directories
 .quasar
 /dist
